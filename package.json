@@ -1,0 +1,14 @@
+{
+  "author": "",
+  "dependencies": {
+    "react": "^15.3.2"
+  },
+  "description": "studying node",
+  "license": "ISC",
+  "main": "app.js",
+  "name": "nodestudy",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
